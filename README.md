@@ -29,3 +29,8 @@ Actualmente, se cuentan con dos tablas (ver archivos adjuntos) que pueden tomars
 
 Nota:
 No es necesario generar funciones PL/SQL, basta con indicar las sentencias que usarian para lograr el objetivo. En el Script de ejemplo, en las primeras lineas se muestra la forma en la que podrian definir algunas variables
+
+## DEMO
+
+![Calculator](https://cdn.discordapp.com/attachments/954764763739586630/963628375962947604/unknown.png)
+
